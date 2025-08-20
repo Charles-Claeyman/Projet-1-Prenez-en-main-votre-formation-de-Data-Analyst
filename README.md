@@ -1,4 +1,4 @@
-# 📊 Projet Data Analyst — README
+# 📊 Formation Openclassroom : Projet 1 : Prenez en main votre formation de Data Analyst
 
 > **Résumé** : Ce dépôt présente un projet d’initiation/approfondissement au métier de **Data Analyst**.
 > Vous y trouverez le contexte, les objectifs, les livrables, ainsi que les compétences ciblées.
