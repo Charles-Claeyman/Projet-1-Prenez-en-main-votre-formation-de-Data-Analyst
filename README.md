@@ -26,10 +26,9 @@
 ## 📦 Livrables
 
 * `README.md` (ce document) — contexte, objectifs, cadre.
-* **Notebook** : `analysis.ipynb` avec code reproductible et commentaires.
-* **Jeu de données** : dossier `data/` (brut et préparé) + dictionnaire.
-* **Visualisations** : dossier `figures/` (PNG/SVG) + légendes.
-* **Présentation** : `report.pdf` ou `slides.pptx` (problème → méthode → résultats → actions).
+* **Fiche découverte début de formation** : Fiche de diagnostic du candidat pour la formation.
+* **Fiche découverte des attendus métier** : Fiche permettant de valider que le candidat a bien compris les attendus métier.
+* **Grille d'autopositionnement** : Grille permettant au candidat de s'auto-évaluer sur les principales compétences attendues sur le métier. 
 
 ---
 
